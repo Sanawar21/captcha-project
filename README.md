@@ -1,2 +1,2 @@
-# captcha_project
+# Captcha Project
 Captcha solver and webscraper
